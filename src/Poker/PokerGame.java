@@ -17,16 +17,9 @@ public class PokerGame {
 		System.out.println(d2_2.toString());
 
 		Card d2_3 = null;
-		
-		Ball blackBall = new Ball("black");
-		
+				
 		// 모든 객체는 object의 자식들이기 때문에 오류 없다
 		// card로 형변환이 불가능 하기 때문에 실행은 불가능
-		if (d2.equals(blackBall)) {
-			System.out.println("d2 and blackBall are same.");
-		} else {
-			System.out.println("d2 and d2_2 are not same.");
-		}
 		
 		// 가지고 있는 내용 비교
 		if (d2.equals(d2_2)) {
