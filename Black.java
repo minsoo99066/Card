@@ -8,6 +8,7 @@ public class Black extends Card {
 	public void showMyColor() {
 		System.out.println("Black");
 		System.out.println("Minsoo");
+		System.out.println("Hi");
 	}
 
 }
