@@ -12,6 +12,6 @@ public class Black extends Card {
 	
 	// Insuk add statement
 	
-	// Practice for origin/develop branch
+	// Practice Test for Branch merge
 
 }
