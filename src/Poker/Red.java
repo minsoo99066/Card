@@ -10,4 +10,6 @@ public class Red extends Card {
 	public void showMyColor() {
 		System.out.println("Red");
 	}
+	
+	// Prac
 }
