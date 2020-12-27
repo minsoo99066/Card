@@ -11,5 +11,5 @@ public class Red extends Card {
 		System.out.println("Red");
 	}
 	
-	// Prac
+	// Practice branch develop
 }
