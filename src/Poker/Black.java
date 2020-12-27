@@ -11,5 +11,7 @@ public class Black extends Card {
 	}
 	
 	// Insuk add statement
+	
+	// Practice
 
 }
