@@ -9,5 +9,7 @@ public class Black extends Card {
 		System.out.println("Minsoo");
 		System.out.println("Hi");
 	}
+	
+	// Insuk add statement
 
 }
